@@ -25,3 +25,8 @@ Përdoruesit mund të paguajnë për biletat me karta krediti, me PayPal, me Bit
 Bileta e blerë përmban detajet e eventit si dhe një numër serial, të dhëna të cilat eknriptohen nga sistemi dhe shfaqen në formën e një barkodi 2D. Ky barkod mund të skanohet me anë të një celulari nga organizatorët e eventit dhe të verifikohet nga sistemi që është i saktë. Teknikat e enkriptimit që përdoren bëjnë të pamundur falsifikimin e biletave.
 
 Blerësit e biletave mund të lënë edhe përshtypjet e tyre për eventin, në rast se një gjë e tillë aktivizohet nga manaxhuesit e eventeve. Gjithashtu ata mund edhe të kontaktojnë administratorët e sistemit për të raportuar probleme ose gjëra që nuk shkojnë (në lidhje me eventet). 
+
+## Pjesëtarët e projektit
+
+- Dashamir Hoxha
+- 
