@@ -1,5 +1,5 @@
 
-# Skenaret e sitemit të biletave
+# Skenaret e sistemit të biletave
 
 Lista e skenarëve:
 
