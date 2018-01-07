@@ -30,23 +30,28 @@ ti printojë.
 
 ## Rrjedhat alternative
 
-### Rishikimi i aktiviteteve të përzgjedhura
+### 1. Rishikimi i aktiviteteve të përzgjedhura
 
 Gjatë konfirmimit, te lista e aktiviteteve të zgjedhura, Lorenci mund
 të fshijë ndonjë prej tyre. Ose mund të rrisë numrin e biletave (p.sh.
 do blejë një biletë tjetër teatri për një shok).
 
 Gjithashtu Lorenci mund ta ndërpresë procesin e pagesës dhe të kthehet
-te lista aktiviteteve për të zgjedhur aktivitete të tjera. Ose mund ta
+te lista e aktiviteteve për të zgjedhur aktivitete të tjera. Ose mund ta
 anullojë komplet blerjen e biletave.
 
-### Pagesa nga përdoruesit e rregjistruar
+### 2. Pagesa nga përdoruesit e rregjistruar
 
 Një përdorues i rregjistruar i ka dhënë gjatë rregjistrimit detajet
 e pagesës, kështu që nuk është nevoja të japë përsëri numrin e kartës
 së kreditit etj.
 
-### Marrja e biletave nga përdoruesit e rregjistruar
+### 3. Mënyra e pagesës
+
+Përveçse me kartë krediti, pagesa mund të kryhet edhe me PayPal,
+Bitcoin, etj, në bazë të preferencave të përdoruesit.
+
+### 4. Marrja e biletave nga përdoruesit e rregjistruar
 
 Përdoruesve të rregjistruar sistemi ua dërgon biltet edhe me email.
 Gjithsesi, një kopje e biletave të tyre ruhet edhe në sistem, në
