@@ -18,6 +18,7 @@
 - Blerje Biletash
 - Detajet e Pagesës
 - Verifikim Bilete
+- Lënie Përshtypjesh
 - Raportim Problemi
 
 #### Abonent

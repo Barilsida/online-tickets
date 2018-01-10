@@ -1,5 +1,5 @@
 
-# Skenari1: Blerja e biletave
+# Skenari 1: Blerja e biletave
 
 ## Rrjedha normale e ngjarjeve
 
@@ -53,7 +53,7 @@ Bitcoin, etj, në bazë të preferencave të përdoruesit.
 
 ### 4. Marrja e biletave nga përdoruesit e rregjistruar
 
-Përdoruesve të rregjistruar sistemi ua dërgon biltet edhe me email.
+Përdoruesve të rregjistruar sistemi ua dërgon biletat edhe me email.
 Gjithsesi, një kopje e biletave të tyre ruhet edhe në sistem, në
 llogarinë e tyre, kështu që ata nuk është nevoja ti ruajnë ose ti
 printojnë biletat e tyre sepse mund ti gjejnë në llogarinë e tyre në
