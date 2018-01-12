@@ -24,6 +24,7 @@
 #### Abonent
 
 - Rregjistrimi
+- Identifikimi
 - Krijimi i Njoftuesve
 - Shikimi i Biletave të Blera
 - Shqyrtimi i Statistikave Personale
