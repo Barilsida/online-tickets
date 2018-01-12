@@ -81,4 +81,4 @@ me eventet).
 ## Pjesëtarët e projektit
 
 - Dashamir Hoxha
-- 
+- Lorenc Uku
