@@ -30,7 +30,7 @@
    1. Ruhen biletat në llogarinë e abonentit
    2. Dërgohen biletat me email
 
-### Detajet e Pagesës
+### Kryerja e Pagesës
 
 1. Zgjidhet mënyra e pagesës (kartë krediti, paypal, bitcoin, etj.)
 2. Plotësohen fushat për rastin përkatës (p.sh. numri i kartës së kreditit)
