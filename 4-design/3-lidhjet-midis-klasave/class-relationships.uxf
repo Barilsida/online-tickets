@@ -93,7 +93,7 @@ m2=*</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>Comment</panel_attributes>
+    <panel_attributes>Feedback</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -104,7 +104,7 @@ m2=*</panel_attributes>
       <w>120</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>m1=1
+    <panel_attributes>m1=0..1
 m2=1</panel_attributes>
     <additional_attributes>10.0;10.0;100.0;10.0</additional_attributes>
   </element>
@@ -116,7 +116,7 @@ m2=1</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>Problem</panel_attributes>
+    <panel_attributes>Issue</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -294,7 +294,8 @@ m2=*</panel_attributes>
       <w>100</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>Image</panel_attributes>
+    <panel_attributes>Image
+bg=cyan</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -341,7 +342,8 @@ group=3</panel_attributes>
       <w>160</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>m1=1
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
 m2=*</panel_attributes>
     <additional_attributes>140.0;10.0;10.0;90.0</additional_attributes>
   </element>
@@ -364,7 +366,8 @@ m2=*</panel_attributes>
       <w>30</w>
       <h>100</h>
     </coordinates>
-    <panel_attributes>m1=1
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-
+m1=1
 m2=n</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
@@ -388,7 +391,8 @@ m2=n</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>ByTime
-group=3</panel_attributes>
+group=3
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -400,7 +404,8 @@ group=3</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>ByNrTickets
-group=3</panel_attributes>
+group=3
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -412,7 +417,8 @@ group=3</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>ByNrPeople
-group=3</panel_attributes>
+group=3
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -460,7 +466,8 @@ group=3</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>CreditCard
-group=1</panel_attributes>
+group=1
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -472,7 +479,8 @@ group=1</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>Paypal
-group=1</panel_attributes>
+group=1
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -484,7 +492,8 @@ group=1</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>Bitcoin
-group=1</panel_attributes>
+group=1
+bg=light_gray</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -534,5 +543,41 @@ group=1</panel_attributes>
     <panel_attributes>     Klasat dhe lidhjet midis tyre
 bg=yellow</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>520</x>
+      <y>520</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Date
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>660</x>
+      <y>520</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Currency
+bg=cyan</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>150</x>
+      <y>240</y>
+      <w>140</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>m1=   *
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;120.0;80.0</additional_attributes>
   </element>
 </diagram>
