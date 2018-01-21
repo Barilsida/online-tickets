@@ -2,6 +2,7 @@
 # Skenari 1: Blerja e biletave
 
 ## Rrjedha normale e ngjarjeve
+___
 
 Lorenci po mendon si ta kalojë kohën e lirë në fundjavë.  Ai hap
 aplikacionin e aktiviteteve në celular dhe kërkon për aktivitete
