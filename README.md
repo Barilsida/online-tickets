@@ -2,7 +2,7 @@
 
 ## Një Sistem Për Shitje Online të Biletave
 
-...
+___
 Ky sistem mundëson shitjen online të biletave të kinemave, teatrove,
 koncerteve, stadjumeve, dhe çfarëdolloj eventi tjetër që ka nevojë për
 shitje biletash.
@@ -78,7 +78,7 @@ në rast se një gjë e tillë aktivizohet nga manaxhuesit e
 eventeve. Gjithashtu ata mund edhe të kontaktojnë administratorët e
 sistemit për të raportuar probleme ose gjëra që nuk shkojnë (në lidhje
 me eventet).
-...
+___
 ## Pjesëtarët e projektit
 
 - Dashamir Hoxha
