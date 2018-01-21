@@ -21,14 +21,13 @@ si dhe mund ta shpërndajë vlerësimin e tij në rrjetet sociale
 
 ### 1. Biletë e pavlefshme
 
-Nëse bileta e përdorur është e pavlefshme, ose është e paskanuar, ose
-është për një veprimtari që nuk ka ndodhur akoma, aplikacioni nxjerr
+Nëse bileta e përdorur është e pavlefshme, ose e paskanuar, ose për një veprimtari që nuk ka ndodhur akoma, aplikacioni nxjerr
 një mesazh gabimi dhe nuk e lejon Albanon të bëjë vlerësime.
 
 ### 2. Raportim problemi
 
 Nëse Albano dëshiron të raportojë diçka negative te organizatorët e
-ngjarjes, mund të zgjedhë opsionin e raportimit të problemit.  Në këtë
+ngjarjes, mund të zgjedhë opsionin e raportimit të problemit! Në këtë
 rast shënimi i lënë do tu shkojë organizatorëve të ngjarjes. Nëse
 Albano zgjedh edhe opsionin përkatës, ky shënim u shkon edhe
 administratorëve të aplikacionit.
